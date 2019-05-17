@@ -18,4 +18,4 @@ A library respects privacy -> It Doesn't access unexpected APIs.
 Android's way of turning an object into a stream of data -> Parceling
 Used in recreating Fragments after the app process has been destroyed -> Argument Bundle
 Turns a Kotlin data object with simple and Parcelable types into a Parcelable object -> @Parcelize
-Parcelable objects must do this in the same order -> Read/write to/from Parcels
+Parcelable objects must do this in the same order -> Read/write to/from Parcels  
